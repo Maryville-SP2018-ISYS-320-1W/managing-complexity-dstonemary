@@ -1,7 +1,7 @@
 /*
   	ISYS 320
-  	Name(s):
-  	Date: 
+  	Name(s): Derek Stone
+  	Date:    April-02-2018
 */
 
 
@@ -13,8 +13,8 @@ public class P1_OutputLoopResult {
 	}
 	
 	public static void printSumOfSquaresTo5() {
-		for( int i = 1; i <= 5; i++ ) {
-			int finalResult = 0;
+		int finalResult = 0;
+		for( int i = 1; i <= 5; i++ ) {			
 			finalResult = finalResult + i * i;
 		}
 		

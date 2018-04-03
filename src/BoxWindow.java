@@ -1,6 +1,10 @@
+/*
+  	ISYS 320
+  	Name(s): Derek Stone
+  	Date:    April-02-2018
+*/
 
 public class BoxWindow {
-
 	
 	public static void main(String[] args) {
 		System.out.print("+===+===+");
